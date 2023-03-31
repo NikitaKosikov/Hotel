@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/Hotel-Booking-Room.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/Hotel-Booking-Room.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication/Hotel-Booking-Room.authentication.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication/Hotel-Booking-Room.authentication.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/competitor-risk-service/Hotel-Booking-Room.competitor-risk-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/competitor-risk-service/Hotel-Booking-Room.competitor-risk-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/competitor-search-service/Hotel-Booking-Room.competitor-search-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/competitor-search-service/Hotel-Booking-Room.competitor-search-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/Hotel-Booking-Room.config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/Hotel-Booking-Room.config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/Hotel-Booking-Room.eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/Hotel-Booking-Room.eureka-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notification/Hotel-Booking-Room.notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/notification/Hotel-Booking-Room.notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order/Hotel-Booking-Room.order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order/Hotel-Booking-Room.order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment/Hotel-Booking-Room.payment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/payment/Hotel-Booking-Room.payment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/room/Hotel-Booking-Room.room.main.iml" filepath="$PROJECT_DIR$/.idea/modules/room/Hotel-Booking-Room.room.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/Hotel-Booking-Room.user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user/Hotel-Booking-Room.user.main.iml" />
+    </modules>
+  </component>
+</project>

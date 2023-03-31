@@ -1,0 +1,328 @@
+
+.main-navigation-wrapper {
+    width: 100%;
+    height: 65px;
+    margin-bottom: 80px;
+}
+
+.nav-list {
+    padding: 0 5px 0 5px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    list-style: none;
+
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-family: Montserrat-Regular;
+    font-size: 20px;
+}
+.nav-link:hover {
+    color: dodgerblue;
+}
+
+.nav-link span {
+    font-size: 30px;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+
+}
+.language{
+    display: inline-block;
+    vertical-align: inherit;
+    margin-right: 15px;
+
+}
+.language_colour{
+    background: none;
+    color: white;
+    font-family: Montserrat-Regular;
+    border: none;
+}
+.language_colour:hover{
+    color: dodgerblue ;
+}
+option{
+    color: white;
+}
+.language_colour:active{
+    background: none;
+    color: white;
+    font-family: Montserrat-Regular;
+    border: none;
+}
+option{
+    background-color: #1d1b1b;
+}
+
+select {
+    font-size: 20px;    /* Add custom arrow */
+}
+.account{
+    display: inline-block;
+    vertical-align: revert;
+    font-size: 20px;
+    margin-right: 25px;
+    width: 175px;
+
+}
+
+.service{
+    display: inline-block;
+    vertical-align: revert;
+    font-size: 20px;
+    margin-right: 25px;
+    width: 75px;
+}
+
+.register_text{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.sing_out{
+    display: inline-block;
+    width: 150px;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.not_cursor:hover{
+    cursor: default;
+}
+.index{
+    border-radius: 15px;
+    background-color: #21262d;
+    width: 1350px;
+    height: 520px;
+    color: white;
+    padding-top: 10px;
+    margin: 0 auto 30px;
+    position: relative;
+}
+
+.home_button{
+    width: 28px;
+    height: 28px;
+    border-radius: 14px;
+}
+
+.footer{
+    position: fixed;
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    color: #333333; /* Цвет текста */
+    width: 98.5%; /* Ширина слоя */
+    display: block;
+}
+
+.footer_data{
+    display: inline-block;
+    vertical-align: middle;
+    color: gray;
+    justify-content: space-between;
+    padding: 10px 10px 10px 15px;
+}
+.footer_data:hover{
+    color: dodgerblue;
+}
+.footer_data_text{
+    color: #CCC;
+    font-size: 13px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 600px;
+}
+
+.footer_hr{
+    border-top-width: 1px; /* Толщина линии внизу */
+    border-top-style: solid; /* Стиль линии внизу */
+    border-top-color: #333333;
+}
+.rooms{
+
+    padding: 10px 10px 10px 50px;
+}
+.rooms_img{
+    width: 370px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.hr_rooms{
+    border-bottom-width: 1px; /* Толщина линии внизу */
+    border-bottom-style: solid; /* Стиль линии внизу */
+    border-bottom-color: black;
+}
+
+.img_room{
+    display: inline-block;
+    vertical-align: revert;
+}
+
+.padding{
+    padding-bottom: 10px;
+}
+
+.room_info{
+    position: fixed;
+    left: 600px;
+    top: 450px;
+    font-size: 20px;
+}
+
+.search{
+    width: 97%;
+    height: 60px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+    text-align: justify;
+}
+
+.outline{
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    margin-bottom: 17px;
+}
+
+.hr_order{
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: white;
+    margin-top: 7px;
+}
+
+.status_order{
+    font-size: 25px;
+    margin-right: 422px;
+}
+
+.hr_status{
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    padding-bottom: 10px;
+}
+
+.colour_order{
+    color: dodgerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slider{
+    max-width: 90%;
+    position: relative;
+    height: 300px;
+    margin: auto auto 10px;
+}
+/* Картинка мастабируется по отношению к родительскому элементу */
+.slider .item img {
+    object-fit: cover;
+    width: 400px;
+    height: 275px;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 10px;
+
+}
+/* Кнопки вперед и назад */
+.slider .prev, .slider .next {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+.slider .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+/* При наведении на кнопки добавляем фон кнопок */
+.slider .prev:hover,
+.slider .next:hover {
+    background-color: rgba(19, 18, 18, 0.8);
+}
+
+/* Кружочки */
+.slider-dots {
+    text-align: center;
+}
+.slider-dots_item{
+    cursor: pointer;
+    height: 12px;
+    width: 12px;
+    margin: 0 2px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active,
+.slider-dots_item:hover {
+    background-color: #aaa;
+}
+/* Анимация слайдов */
+.slider .item {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+
+

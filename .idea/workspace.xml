@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="080a8980-2ad8-4176-9d6e-9e9159f95b4d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/authentication">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/user">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/room">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/payment">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/order">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/eureka-server">
+          <activation />
+        </task>
+        <projects_view>
+          <option name="groupModules" value="false" />
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+                <item name="Hotel-Booking-Room" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+                <item name="Hotel-Booking-Room" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+                <item name="eureka-server" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+                <item name="eureka-server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+                <item name="eureka-server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Hotel-Booking-Room" type="f1a62948:ProjectNode" />
+                <item name="eureka-server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2LjPnv6mm5Xi8dem7VLQPIWiN99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Hotel-Booking-Room/user/src/main/resources/static/css&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.44367817&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kosnik.parser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\user\src\main\resources\static\css" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\payment\src\main\resources\static\css" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\order\src\main\resources\static\css" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\room\src\main\resources\templates\static" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\user\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\payment\src\main\resources" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\order\src\main\resources" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\room\src\main\resources" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\room\src\main\resources\templates" />
+      <recent name="C:\Users\User\IdeaProjects\Hotel-Booking-Room\room\src\main\resources\templates\static" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kosnik.web.controller" />
+      <recent name="com.kosnik.service.impl" />
+      <recent name="com.kosnik.service.converter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kosnik.domain" />
+      <recent name="com.kosnik.config" />
+      <recent name="com.kosnik.service.dto" />
+      <recent name="com.kosnik.repository" />
+      <recent name="org.example.kosnik.service.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Hotel-Booking-Room:eureka-server [bootRun]">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kosnik.apigateway.ApiGatewayApplication" />
+      <module name="Hotel-Booking-Room.api-gateway.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kosnik.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kosnik.web.AuthenticationApplication" />
+      <module name="Hotel-Booking-Room.authentication.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kosnik.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kosnik.web.OrderApplication" />
+      <module name="Hotel-Booking-Room.order.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kosnik.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hotel-Booking-Room [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Hotel-Booking-Room:eureka-server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eureka-server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.AuthenticationApplication" />
+      <item itemvalue="Application.OrderApplication" />
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Gradle.Hotel-Booking-Room [bootRun]" />
+      <item itemvalue="Gradle.Hotel-Booking-Room:eureka-server [bootRun]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Hotel-Booking-Room:eureka-server [bootRun]" />
+        <item itemvalue="Gradle.Hotel-Booking-Room [bootRun]" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.OrderApplication" />
+        <item itemvalue="Application.AuthenticationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="080a8980-2ad8-4176-9d6e-9e9159f95b4d" name="Changes" comment="" />
+      <created>1676381690739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676381690739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/kosnik/service/security/UserDetailsServiceImpl.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/competitor-search-service/src/main/java/com/kosnik/parser/CompetitorParser.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/competitor-search-service/src/main/java/com/kosnik/service/impl/CompetitorServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedHashMap$Entry" memberName="value" />
+        <PinnedItemInfo parentTag="com.fasterxml.jackson.databind.node.ArrayNode" memberName="_children" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="((ArrayNode)((LinkedHashMap.Entry)((LinkedHashMap)((ObjectNode)responseJsonNode)._children).entrySet().toArray()[1]).getValue())._nodeFactory" custom="java.util.LinkedHashMap,com.fasterxml.jackson.databind.node.ArrayNode,java.util.LinkedHashMap.Entry,com.fasterxml.jackson.databind.node.ObjectNode" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

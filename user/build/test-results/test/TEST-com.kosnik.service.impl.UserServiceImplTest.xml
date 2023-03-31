@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kosnik.service.impl.UserServiceImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-03-14T08:43:02" hostname="DESKTOP-3ED3TIO" time="1.705">
+  <properties/>
+  <testcase name="userFoundById()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.818"/>
+  <testcase name="whenUpdatingUserTheNewEmailHasNotChanged()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.308"/>
+  <testcase name="userIsSavedInDB()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.278"/>
+  <testcase name="userNotFoundById()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.004"/>
+  <testcase name="whenUpdatingUserTheNewEmailHasChanged()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.275"/>
+  <testcase name="whenUpdatingUserTheNewEmailAlreadyTaken()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.002"/>
+  <testcase name="whenSavingUserTheUserAlreadyExist()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.002"/>
+  <testcase name="findUserByEmail()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.002"/>
+  <testcase name="whenUpdatingUserTheUserNotFoundById()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.001"/>
+  <testcase name="findUserByEmailTheUserNotFound()" classname="com.kosnik.service.impl.UserServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

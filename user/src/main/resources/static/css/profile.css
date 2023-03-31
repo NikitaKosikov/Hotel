@@ -1,0 +1,85 @@
+.profile{
+    border-radius: 15px;
+    background-color: #21262d;
+    width: 650px;
+    height: 470px;
+    color: white;
+    padding-top: 10px;
+    margin: 0 auto 30px;
+    padding-left: 30px;
+}
+.img_border{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.hr_profile{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #333333;
+}
+
+.personal_date{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 30px;
+    font-family: Montserrat-Regular;
+}
+.size_img{
+    position: absolute;
+}
+.size_personal_data{
+    padding-left: 300px;
+    padding-top: 60px;
+}
+
+.personal_date_size{
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+.data{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.line{
+
+    border-top-width: 7px; /* Толщина линии внизу */
+    border-top-style: solid; /* Стиль линии внизу */
+    border-top-color: white;
+    width: 108px;
+    border-radius: 10px;
+}
+
+
+.edit_profile_button{
+    position: fixed;
+    top: 400px;
+    left: 590px;
+    height: 50px;
+}
+
+.img_edit{
+    width: 30px;
+    position: relative;
+    left: 130px;
+    top: -80px;
+}
+.relative_class{
+    position: relative;
+}
+
+.edit_profile{
+    color: white;
+    background-color: #21262d;
+    font-size: 19px;
+    border-radius: 6px;
+}
+
+.decloration:hover{
+    color: dodgerblue;
+}

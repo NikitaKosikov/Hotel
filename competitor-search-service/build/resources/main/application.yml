@@ -1,0 +1,42 @@
+server:
+  port: 8087
+
+spring:
+  application:
+    name: competitor-search-service
+  data:
+    mongodb:
+      host: localhost
+      port: 27018
+      authentication-database: admin
+      database: Competitor
+      username: username
+      password: password
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1.0
+
+api:
+  geoapify:
+    url: https://api.geoapify.com/v2/places
+    categories-search: accommodation.hostel
+    filter-coordinates: circle:27.567444,53.893009,9000
+    retry: 0 0 */1 * * ? #Every hour
+    api-key: b1164bc5329244f7a69215ca1fe381f4
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka:password@localhost:8761/eureka
+
+logging:
+  pattern:
+    console: =%C{1.} [%-5level] %d{HH:mm:ss} - %msg%n
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: prometheus

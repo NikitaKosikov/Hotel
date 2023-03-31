@@ -1,0 +1,46 @@
+server:
+  port: 0
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka:password@localhost:8761/eureka
+
+spring:
+  application:
+    name: notification-service
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1.0
+    integration:
+      enabled: true
+  kafka:
+    bootstrap-servers: localhost:9092
+    template:
+      default-topic: notification
+    consumer:
+      group-id: notificationId
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring:
+          json:
+            type:
+              mapping: event:com.kosnik.event.OrderPlacedEvent
+  mail:
+    host: smtp.mail.com
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: prometheus

@@ -1,0 +1,116 @@
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+body {
+    font-family: Montserrat-Regular;
+    margin: 0;
+    background: url("/images/common/first.jpg") no-repeat;
+    background-size: cover;
+}
+
+.container {
+    padding: 0 10px 0 10px;
+}
+
+.header {
+    color: white;
+    justify-content: flex-end;
+    padding: 20px 0px 20px 20px;
+    width: 99%;
+    margin: 0 0 30px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.title{
+    display: inline-block;
+    vertical-align: baseline;
+    width: 500px;
+    margin-right: 360px;
+}
+
+p {
+    margin: 0;
+}
+
+input {
+    padding-left: 10px;
+    background: #333;
+    color: white;
+    font-size: 16px;
+}
+
+
+.colour {
+    font-family: Montserrat-Regular;
+    border: none;
+    color: white;
+    border-bottom-width: 2px; /* Толщина линии внизу */
+    border-bottom-style: solid; /* Стиль линии внизу */
+    border-bottom-color: white;
+    margin-bottom: 15px;
+
+}
+
+.a_not_decoration {
+    color: white;
+    text-decoration: none;
+}
+
+.header-form {
+    align-self: center;
+}
+
+.font_size{
+    font-size: 45px;
+}
+.input_wrapper {
+    justify-content: space-between;
+    margin-bottom: 35px;
+    padding: 15px 15px;
+}
+.login_text{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.input_hover:hover{
+    color: dodgerblue;
+}
+
+.date_color{
+    display: inline-block;
+    color: dodgerblue;
+}
+
+.submit:focus{
+    outline: none;
+}
+
+.leftstr, .rightstr {
+    float: left; /* Обтекание справа */
+    width: 50%; /* Ширина текстового блока */
+}
+.rightstr {
+    text-align: right; /* Выравнивание по правому краю */
+}
+select:focus{
+    outline: none;
+}
+
+.icon_alien{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.error_place{
+    font-size: 21px;
+    position: fixed;
+    top: 280px;
+    left: 670px;
+}

@@ -1,0 +1,18 @@
+.data_color{
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+}
+
+.data_edit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.password_edit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: space-around;
+}

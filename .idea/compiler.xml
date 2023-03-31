@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="Hotel-Booking-Room.hotel.main" />
+        <module name="Hotel-Booking-Room.user.main" />
+        <module name="Hotel-Booking-Room.notification.main" />
+        <module name="Hotel-Booking-Room.api-gateway.main" />
+        <module name="Hotel-Booking-Room.config-server.main" />
+        <module name="Hotel-Booking-Room.competitor-risk-service.main" />
+        <module name="Hotel-Booking-Room.order.main" />
+        <module name="Hotel-Booking-Room.room.main" />
+        <module name="Hotel-Booking-Room.competitor-search-service.main" />
+        <module name="Hotel-Booking-Room.payment.main" />
+        <module name="Hotel-Booking-Room.authentication.main" />
+        <module name="Hotel-Booking-Room.eureka-server.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>

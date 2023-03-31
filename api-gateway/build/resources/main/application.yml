@@ -1,0 +1,35 @@
+server:
+  port: 8765
+
+spring:
+  application:
+    name: api-gateway
+  main:
+    web-application-type: reactive
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1.0
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka:password@localhost:8761/eureka
+
+logging:
+  level:
+    root: INFO
+    org:
+      springframework:
+        cloud:
+          gateway: TRACE
+          gateway.route.RouteDefinitionLocator: INFO
+  pattern:
+    console: =%C{1.} [%-5level] %d{HH:mm:ss} - %msg%n
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: prometheus
